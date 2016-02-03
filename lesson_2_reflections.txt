@@ -5,3 +5,7 @@ Why do you need to do it?
 How can you use the staging area to make sure you have one commit per logical
 change?
     I can make group of changes.
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+    You can follow the history of each change. and how do they interact with
+    themselves and the master.
