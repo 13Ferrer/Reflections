@@ -1,4 +1,7 @@
 What happens when you initialize a repository?
-  Nothing, just creates the folder .git
+    Nothing, just creates the folder .git
 Why do you need to do it?
-  To start working with the git tools :D
+    To start working with the git tools :D
+How can you use the staging area to make sure you have one commit per logical
+change?
+    I can make group of changes.
