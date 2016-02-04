@@ -9,3 +9,6 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
     You can follow the history of each change. and how do they interact with
     themselves and the master.
+How do the diagrams help you visualize the branch structure?
+    It helps you to understand what's happening and know why are you doing what
+    you're doing.
