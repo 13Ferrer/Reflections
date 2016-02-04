@@ -12,3 +12,7 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
     It helps you to understand what's happening and know why are you doing what
     you're doing.
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+    It's a file with the changes made by each one who worked on it, the union
+    of two paths.
