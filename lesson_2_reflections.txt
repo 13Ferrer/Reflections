@@ -16,3 +16,6 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
     It's a file with the changes made by each one who worked on it, the union
     of two paths.
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+    You are sure about what you are merging 
